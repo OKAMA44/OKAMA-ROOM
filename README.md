@@ -1,3 +1,7 @@
+ <div style="text-align: center;">
+    <img src="logo/logo.png" alt="listen to beastie boys.">
+</div>
+
  Isso é pra ser um blog, que serve mais de compêndio online de ideias minhas, pq eu n quero pagar mais por mais espaço no drive.
 
 Pense nisso como uma revista online, um lugar aonde eu vou despejar todas as merdas que eu penso, com uma música minha no final.
