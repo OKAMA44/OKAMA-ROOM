@@ -1,6 +1,11 @@
 body {
     background-color: black;
-    background-image: url("images/background.png");
+    background-image: url("/home/okama/Projetos/OKAMAROOM/images/background.png");
+}
+
+.cover {
+    width: 400px;
+    height: 400px;
 }
 
 table {
